@@ -1,0 +1,6 @@
+[package]
+name = "originlang"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
